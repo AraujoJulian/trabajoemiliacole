@@ -1,0 +1,123 @@
+body {
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-decoration: none;
+}
+h1 {
+    font-family: 'Raleway', sans-serif;
+}
+body.home {
+    background-image: url(../img/home.jpg);
+    background-repeat: no-repeat;
+    background-position: 101.5% 50%;
+    background-size: 1200px;
+    margin-left: 50px;
+}
+.emilia {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 35px;
+    text-align: center left;
+    font-weight: normal; 
+    margin-top: 180px;
+    margin-bottom: 230px;
+    letter-spacing: 3px;
+}
+a.gris {
+    color: gray;
+    text-decoration: none;
+    font-weight: bold;
+}
+h1.twist {
+    text-align: bottom left;
+    font-size: 75px;
+    margin-left: -45px;
+    background-color: rgba(255,255,255,0.3)
+}
+body.about{
+    background-image: url(../img/about.jpg);
+    background-repeat: no-repeat;
+    background-size: 1200px;
+    background-position: 100% 0%;
+}
+p.about{
+    font-size: 20px;
+    white-space: pre-wrap;
+    text-decoration: none;
+    color: black;
+    text-align: right;
+    background-color: rgba(255,255,255,0.6);
+    margin-bottom: 20px;
+}
+a.about:link{
+    text-decoration: none;
+    white-space: pre-wrap;
+    text-decoration: none;
+    color: black;
+    text-align: right;  
+}
+a.about:visited{
+    color: black;
+}
+p.icons {
+    text-align: right;
+}
+h1.about {
+    font-size: 75px;
+    margin-top: 100px;
+}
+h2.aqua1 {
+    font-weight: 500;
+    font-family: 'Raleway', sans-serif; 
+    font-size: 25px;
+    margin-left: 40px;
+    color: rgb(60, 153, 138);
+}
+h5.aqua2 {
+    font-weight: normal;
+    font-family: 'Raleway', sans-serif;
+    margin-left: 40px;
+    color: rgb(60, 153, 138);
+}
+body.music{
+    background-image: url(../img/music-top.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: 1800px 100px;
+}
+h1.music{
+    margin-top: 80px;
+    font-size: 50px;
+}
+a.music:link{
+    text-decoration: none;
+    color: lightgrey;
+}
+p.music{
+    color:black;
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+}
+a.music:visited{
+    color: gray;
+}
+a.menu{
+    text-align: right;
+}
+h4.contact{
+    font-family: 'Raleway', sans-serif;
+    color: rgb(60, 153, 138);
+}
+p.contact{
+    font-weight: bold;
+}
+a.contact:link{
+    text-decoration: none;
+    color: black;
+    font-weight: normal;
+}
+a.contact:visited{
+    color: black;
+    text-decoration: none;
+    font-weight: normal;
+}
